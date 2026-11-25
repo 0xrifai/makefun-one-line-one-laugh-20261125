@@ -1,0 +1,1 @@
+{"description":"One Line, One Laugh — a make.fun entry: one funny line written to /output/entry.txt","engines":{"node":">=22.18"},"keywords":["make.fun","one-liner"],"license":"MIT","name":"makefun-one-line-one-laugh-20261125","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
